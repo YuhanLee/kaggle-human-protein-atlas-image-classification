@@ -1,3 +1,4 @@
 dataset/train/
 dataset/test/
 human-protein-atlas-image-classification/
+**/*.ipynb_checkpoints/
